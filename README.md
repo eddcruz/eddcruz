@@ -3,7 +3,7 @@
 # Eduardo Cruz
 **Data Scientist & ML Engineer**
 
-*Turning data into actionable decisions*
+*"Turning data into actionable decisions"*
 
 <br>
 
