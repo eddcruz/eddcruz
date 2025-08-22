@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**eddcruz/eddcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Eduardo Cruz
+**Data Scientist & ML Engineer**
 
-Here are some ideas to get you started:
+*Transformando datos en decisiones inteligentes*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+🎯 **Expertise:** Forecasting • Churn Analysis • Predictive Models  
+🛠️ **Stack:** Python • SQL • R • GCP • MLOps  
+📈 **Goal:** Senior Data Scientist  
+
+<br>
+
+[![Email](https://img.shields.io/badge/-Contact-red?style=flat&logo=gmail)](mailto:eduardalex8@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eduardo-alejandro-cruz-castillo-a540b115a) [![Kaggle](https://img.shields.io/badge/-Kaggle-teal?style=flat&logo=kaggle)](https://www.kaggle.com/eduardoacruz)
+
+</div>
