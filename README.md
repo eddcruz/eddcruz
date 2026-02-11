@@ -1,21 +1,14 @@
-<div align="center">
-
 # Eduardo Cruz
-**Data Scientist & ML Engineer**
 
-*"Turning data into actionable decisions"*
+Data & Automation Engineer | Logistics Analytics
 
-<br>
+Building production-ready data systems that transform operational data into actionable decisions.
 
-🎯 **Expertise:** Forecasting • Churn Analysis • Predictive Modeling  
-🛠️ **Stack:** Python • SQL • R • GCP • MLOps  
-📈 **Goal:** Senior Data Scientist  
+## Key Project
+- Fleet DDEC Report System — End-to-end PDF automation with OCR, validation, structured storage, and analytics dashboard
 
-<br>
+## Capabilities
+ETL · Exploratory Data Analysis · Operational Dashboards · Forecasting · Process Automation
 
-[![Email](https://img.shields.io/badge/-Contact-red?style=flat&logo=gmail)](mailto:eduardalex8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/eduardo-alejandro-cruz-castillo-a540b115a)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/eduardoacruz)
-
-</div>
-
+## Stack
+Python · SQL · Google Apps Script · Pandas · scikit-learn · GCP
